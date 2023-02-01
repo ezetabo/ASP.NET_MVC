@@ -9807,11 +9807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Proyectos_ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectUniqueName": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "projectName": "ManejoPresupuesto",
-      "projectPath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Proyectos_ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectPath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "packagesPath": "C:\\Users\\ezequiel.taboada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Proyectos_ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+      "outputPath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezequiel.taboada\\AppData\\Roaming\\NuGet\\NuGet.Config",

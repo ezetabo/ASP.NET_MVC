@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eTjq+bkXbBTT5CrGeOpVgZh3VCj9aXRJH4bHF3VBJraKuk+fg96lLxOsgx7oRMFBVz/cNVDoH1fIoKwTI+KVGg==",
+  "dgSpecHash": "Rr33U9/1Rsf3skEwtP8GjHYltr0Qyyz1EQ1TOtbbnEg5LRd/DMJPvPU1mSiP0m91wRw2DSMhwKyYbU8jhTZvIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Proyectos_ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+  "projectFilePath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequiel.taboada\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ezequiel.taboada\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
