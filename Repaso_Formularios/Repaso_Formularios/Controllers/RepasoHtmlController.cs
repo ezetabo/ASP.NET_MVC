@@ -38,5 +38,22 @@ namespace Repaso_Formularios.Controllers
         {
             return View();
         }
+        
+        public ActionResult TablaJs()
+        {
+            return View();
+        }
+
+        public JsonResult ListarPersonas()
+        {
+            List<Persona> listaPersonas = new List<Persona>() 
+            {
+                new Persona {IdPersona = 1,Nombre = "Juan",Apellido="Gonzalez"},
+                new Persona {IdPersona = 2,Nombre = "Luis",Apellido="Perez"},
+                new Persona {IdPersona = 3,Nombre = "Maria",Apellido="Sanchez"}
+            };
+
+          return Json(listaPersonas);
+        }
     }
 }

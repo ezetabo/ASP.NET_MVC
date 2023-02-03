@@ -22,6 +22,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=RepasoHtml}/{action=ComboBox}/{id?}");
+    pattern: "{controller=RepasoHtml}/{action=TablaJs}/{id?}");
 
 app.Run();

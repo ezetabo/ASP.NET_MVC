@@ -1,11 +1,10 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "ComboBox";
 }
 
 <h1>Combobox</h1>
 
-<select> 
+<select>
     <option value="1">Lunes</option>
     <option value="2">Martes</option>
     <option value="3">Miercoles</option>
@@ -14,21 +13,28 @@
     <option value="6">Sabado</option>
     <option value="7">Domingo</option>
 </select>
-<select id="cboCategorias"> 
+<select id="cboCategorias">
     <option value="1">Bebidas</option>
     <option value="2">Cosmeticos</option>
     <option value="3">Verduras</option>
-    <option value="4">Frutas</option>  
+    <option value="4">Frutas</option>
 </select>
 
 <input type="button" id="btnValor" value="Obtner ID" />
 
 <script>
-   document.getElementById("btnValor").onclick = function () {
+    var btnValor = document.getElementById("btnValor");
+    btnValor.onclick = function () {
+        //obtener todo el cbo
+        var cboCategorias = document.getElementById("cboCategorias");
+        //obtener el indice
+        var index = cboCategorias.selectedIndex;
+        //obtner el nombre de cada iten seleccionado
+        var nombre = cboCategorias.options[index].textContent;
+        //obtener el id de cada seleccion
+        var id = cboCategorias.value;
 
-  var idCategoria = document.getElementById("cboCategorias").value;
-  var nombreCategoria = document.getElementById("cboCategorias").text;
-   alert(`${nombreCategoria} tiene el ID: ${idCategoria}`);
+        alert(`${nombre} tiene el ID: ${id}`);
 
-}
+    }
 </script>

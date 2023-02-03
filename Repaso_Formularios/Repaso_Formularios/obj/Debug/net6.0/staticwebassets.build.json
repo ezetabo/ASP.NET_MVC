@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ga2ckGt0p7YdpYH+fJ5v/hc/6hn0Oyp2IN65PtoqCos=",
+  "Hash": "LXv0heSXU6GKIrr3VLAC3vVcYJ09YNVGnYIDhCpopro=",
   "Source": "Repaso_Formularios",
   "BasePath": "_content/Repaso_Formularios",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\jquery\\jquery-3.6.3.min.js",
+      "SourceId": "Repaso_Formularios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\",
+      "BasePath": "_content/Repaso_Formularios",
+      "RelativePath": "jquery/jquery-3.6.3.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery-3.6.3.min.js"
+    },
+    {
       "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\js\\site.js",
       "SourceId": "Repaso_Formularios",
       "SourceType": "Discovered",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Sumar.js"
+    },
+    {
+      "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\js\\tabla.js",
+      "SourceId": "Repaso_Formularios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\",
+      "BasePath": "_content/Repaso_Formularios",
+      "RelativePath": "js/tabla.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tabla.js"
     },
     {
       "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

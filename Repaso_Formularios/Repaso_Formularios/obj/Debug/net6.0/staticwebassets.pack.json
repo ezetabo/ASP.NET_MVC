@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\jquery\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery-3.6.3.min.js"
+    },
+    {
       "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\js\\Sumar.js",
       "PackagePath": "staticwebassets\\js\\Sumar.js"
     },
     {
       "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\js\\tabla.js",
+      "PackagePath": "staticwebassets\\js\\tabla.js"
     },
     {
       "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Repaso_Formularios\\Repaso_Formularios\\wwwroot\\lib\\bootstrap\\LICENSE",
