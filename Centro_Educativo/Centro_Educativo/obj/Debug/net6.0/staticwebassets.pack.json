@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\jquery\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery-3.6.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\js\\curso.js",
+      "PackagePath": "staticwebassets\\js\\curso.js"
+    },
+    {
       "Id": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

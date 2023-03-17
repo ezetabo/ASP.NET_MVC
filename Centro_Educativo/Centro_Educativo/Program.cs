@@ -1,7 +1,10 @@
+using Centro_Educativo.servicios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<IRepositorioCurso,RepositorioCurso>();
 
 var app = builder.Build();
 

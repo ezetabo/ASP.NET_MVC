@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9RRyYM3orfWNB4nWYonwvsZKTxRnbKk2YnG0LA5fMPc=",
+  "Hash": "Bek80cZkObUwRy2996dstnZhLGh3MNkO05Qn3FVspGE=",
   "Source": "Centro_Educativo",
   "BasePath": "_content/Centro_Educativo",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\jquery\\jquery-3.6.3.min.js",
+      "SourceId": "Centro_Educativo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\",
+      "BasePath": "_content/Centro_Educativo",
+      "RelativePath": "jquery/jquery-3.6.3.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery-3.6.3.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\js\\curso.js",
+      "SourceId": "Centro_Educativo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\",
+      "BasePath": "_content/Centro_Educativo",
+      "RelativePath": "js/curso.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\curso.js"
     },
     {
       "Identity": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\Centro_Educativo\\Centro_Educativo\\wwwroot\\js\\site.js",

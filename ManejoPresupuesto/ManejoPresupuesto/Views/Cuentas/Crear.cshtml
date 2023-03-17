@@ -10,9 +10,9 @@
     tarjeta de credito, cuenta de ahorro, préstamos, etc...
 </h5>
 
-<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
 <form asp-action="Crear">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
     <div class="mb-3">
         <label asp-for="Nombre" class="form-label>"></label>
@@ -22,7 +22,7 @@
 
     <div class="mb-3">
         <label asp-for="TipoCuentaId" class="form-label>"></label>
-        <select asp-for="TipoCuentaId" asp-items="Model.TiposCuentas" class="form-select"></select>
+        <select asp-for="TipoCuentaId" asp-items="Model.TiposCuentas" class="form-select" style="width: 20%"></select>
         <span asp-asp-validation-for="TipoCuentaId" class="text-danger"></span>
     </div>
 

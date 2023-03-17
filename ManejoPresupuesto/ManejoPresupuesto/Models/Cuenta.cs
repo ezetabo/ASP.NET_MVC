@@ -10,7 +10,7 @@ namespace ManejoPresupuesto.Models
         [StringLength(maximumLength: 50)]        
         public string Nombre { get;set; }
         
-        [Display(Name = "Nombre del tipo Cuenta")]
+        [Display(Name = "Tipo Cuenta")]
         public int TipoCuentaId { get;set; }
         
         public decimal Balance { get; set; }

@@ -32,8 +32,7 @@ namespace ManejoPresupuesto.Controllers
         public async Task<IActionResult> Crear(CuentasCreacionVM cuenta)
         {
             var usuarioId = servicioUsuarios.ObtnerUsurioId();
-            var tipoCuenta = await repositorioTipoCuentas.ObternerPorId(cuenta.TipoCuentaId, usuarioId);
-            var modelo = new CuentasCreacionVM();
+            var tipoCuenta = await repositorioTipoCuentas.ObternerPorId(cuenta.TipoCuentaId, usuarioId);           
             if (tipoCuenta is null)
             {
                 return RedirectToAction("NoEncontrado", "Home");
