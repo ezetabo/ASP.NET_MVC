@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "bfoePPzndY6VSDqq7F5P99AVQwpZk0TcpQc++vndmP3n92B7QCln+WTBg5xJ2bJNZ8FFudHNALfK+kNQtIInSQ==",
+=======
+  "dgSpecHash": "CG5ZC+F3d5XwpLwqSEDhX2Cl3590zY2CF2MVxHOXv/yZIJoaEN7C4JxWxsNMLg9YqDU1Dd0NnNjtamf/HRrJuA==",
+>>>>>>> 847a8cf820f68b37c87c99c29917d3b4ba0ef483
   "success": true,
   "projectFilePath": "C:\\Users\\ezequiel.taboada\\OneDrive - Accenture\\Escritorio\\Udemy\\ASP.NET_MVC\\CrudNet7MVC\\CrudNet7MVC\\CrudNet7MVC.csproj",
   "expectedPackageFiles": [
